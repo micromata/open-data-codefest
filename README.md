@@ -37,3 +37,6 @@ Datensatz herunterlädst und benutzt empfehlen wir Dir, die jeweilige Lizenz zu 
   - wissenschaftlich orientierte Daten aus verschiedenen Bereichen
 - [Pisa Ergebnisse](https://www.oecd.org/pisa/data/)
   - Antworten aller Teilnehmer aus verschiedenen Jahren
+- [Jugend hackt > Offene Daten](https://jugendhackt.org/lernmaterial/offenedaten/)
+  - verschiedene Datenlisten der einzelnen Behörden, Ämter und Länder
+- [Jugend hackt > lose Sammlung](https://pad.medialepfade.net/opendatajugendhackt#)
