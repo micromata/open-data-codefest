@@ -62,6 +62,12 @@ infiziert.
 
 https://alleXminuten.de/
 
+### AVAPS - Abfragen, Verarbeiten und Auswerten von Prozessdaten im Spritzguss
+
+Datensatz aus dem Forschungsprojekt "AVAPS". Vorhersage der Bauteilqualität mit Hilfe der Prozessdaten einer Spritzgießmaschine. Explorative Datenanalyse und Machine learning mit den Daten. 
+
+https://github.com/micromata/open-data-codefest/tree/main/avaps
+
 ## Ideen
 
 ### eBay Price Scraper
