@@ -1,6 +1,6 @@
-# open-data-codefest
+# Open Data Codefest
 
-Ergebnisse des Open Data Codefest
+Informationen zum Open Data Codefest
 
 ## Inhaltsverzeichnis
 - [Datenquellen](#datenquellen)
