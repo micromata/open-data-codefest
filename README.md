@@ -66,7 +66,7 @@ https://alleXminuten.de/
 
 ### eBay Price Scraper
 
-Durchforste aktuelle und vergangene eBay Listings zu bestimmten Artikeln um eine Presentwicklung herauszufinden.
+Durchforste aktuelle und vergangene eBay Listings zu bestimmten Artikeln um eine Preisentwicklung herauszufinden.
 
 ### Fahrrad Infrastruktur Analyse
 Auswirkung guter innerstädtischer Fahrrad Infrastruktur auf die Luftqualität (Ausbau der Fahrradwege in der Stadt in Korrelation zu CO2 Daten).
