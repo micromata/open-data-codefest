@@ -82,5 +82,5 @@ Auswirkung guter innerstädtischer Fahrrad Infrastruktur auf die Luftqualität (
 
 Die Willkommenspräsentation findet ihr hier zum Download:
 
-- [Keynote](https://github.com/micromata/open-data-codefest/welcome-presentation/Welccome-Open-Data-Codefest.key)
-- [PDF](https://github.com/micromata/open-data-codefest/welcome-presentation/Welccome-Open-Data-Codefest.pdf)
+- [Keynote](https://github.com/micromata/open-data-codefest/raw/main/welcome-presentation/Welccome-Open-Data-Codefest.key)
+- [PDF](https://github.com/micromata/open-data-codefest/raw/main/welcome-presentation/Welccome-Open-Data-Codefest.pdf)
