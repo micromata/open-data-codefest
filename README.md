@@ -6,6 +6,7 @@ Informationen zum Open Data Codefest
 - [Datenquellen](#datenquellen)
 - [Beispiele](#beispiele)
 - [Ideen](#ideen)
+- [Willkommenspräsentation](#willkommenspräsentation)
 
 ## Datenquellen:
 
@@ -76,3 +77,10 @@ Durchforste aktuelle und vergangene eBay Listings zu bestimmten Artikeln um eine
 
 ### Fahrrad Infrastruktur Analyse
 Auswirkung guter innerstädtischer Fahrrad Infrastruktur auf die Luftqualität (Ausbau der Fahrradwege in der Stadt in Korrelation zu CO2 Daten).
+
+## Willkommenspräsentation
+
+Die Willkommenspräsentation findet ihr hier zum Download:
+
+- [Keynote](https://github.com/micromata/open-data-codefest/welcome-presentation/Welccome-Open-Data-Codefest.key)
+- [PDF](https://github.com/micromata/open-data-codefest/welcome-presentation/Welccome-Open-Data-Codefest.pdf)
